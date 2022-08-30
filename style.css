@@ -3,10 +3,14 @@ h1{
       background-color: aqua;
         border: 40px;
           border-radius: 40px;
+           text-align: justify;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p{
-    color:blue;
-    background-color: aqua;
-      border: 40px;
-        border-radius: 40px;
+      color:blue;
+      background-color: aqua;
+        border: 40px;
+          border-radius: 40px;
+            text-align: justify;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
