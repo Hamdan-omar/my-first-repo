@@ -1,1 +1,17 @@
+p{
+    color: navy;
+      background-color: aqua;
+        border: 20px;
+          border-radius: 20px;
+            text-align: justify;
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+h1{
+    color: navy;
+      background-color: aqua;
+        border: 20px;
+          border-radius: 20px;
+            text-align: justify;
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
